@@ -1,0 +1,3 @@
+Abstract
+
+This study investigates the release of 3 major alien movie releases in different decades and how that may influence the frequency of UFO sightings. The movies investigated are  "Close Encounters of the Third Kind"(1977), E.T. The Extra-Terrestrial"(1982), and "Independence Day" (1996). In terms of analysis, bar charts and a T Test for 2 independent means are used. The results were that while Close Encounters of the Third Kind"(1977) and "Independence Day" (1996) had sighting frequency increase post movie release none of the findings are statisitcally significant. 
